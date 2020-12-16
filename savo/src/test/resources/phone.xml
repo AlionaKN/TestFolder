@@ -1,0 +1,5 @@
+<models.ShopItem>
+  <name>iPhone</name>
+  <price>$123.20</price>
+  <brand>Apple</brand>
+</models.ShopItem>
